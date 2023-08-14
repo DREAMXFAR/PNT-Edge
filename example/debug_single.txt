@@ -1,0 +1,1 @@
+/image/test/2008_000075.png /label_inst_orig/test/2008_000075.mat

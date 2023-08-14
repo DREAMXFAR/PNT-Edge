@@ -1,0 +1,48 @@
+# -*_ coding: utf-8 -*-
+### for cityscapes
+cityscapes_categories = {
+    1: 'Road',
+    2: 'Sidewalk',
+    3: 'Building',
+    4: 'Wall',
+    5: 'Fence',
+    6: 'Pole',
+    7: 'Traffic Light',
+    8: 'Traffic Sign',
+    9: 'Vegetation',
+    10: 'Terrain',
+    11: 'Sky',
+    12: 'Person',
+    13: 'Rider',
+    14: 'Car',
+    15: 'Truck',
+    16: 'Bus',
+    17: 'Train',
+    18: 'Motorcycle',
+    19: 'Bicycle',
+    },
+
+### for sbd
+sbd_categories = {
+    1: 'Aeroplane',
+    2: 'Bicycle',
+    3: 'Bird',
+    4: 'Boat',
+    5: 'Bottle',
+    6: 'Bus',
+    7: 'Car',
+    8: 'Cat',
+    9: 'Chair',
+    10: 'Cow',
+    11: 'Dining table',
+    12: 'Dog',
+    13: 'Horse',
+    14: 'Motor Bike',
+    15: 'Person',
+    16: 'Potted Plant',
+    17: 'Sheep',
+    18: 'Sofa',
+    19: 'Train',
+    20: 'TV/Monitor',
+}
+

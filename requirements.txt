@@ -1,0 +1,169 @@
+absl-py @ file:///tmp/build/80754af9/absl-py_1615411202722/work
+aiohttp @ file:///tmp/build/80754af9/aiohttp_1602530294624/work
+astor==0.8.1
+astunparse==1.6.3
+async-timeout==3.0.1
+attrdict==2.0.1
+attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+blinker==1.4
+Bottleneck==1.3.2
+brotlipy==0.7.0
+cachetools @ file:///tmp/build/80754af9/cachetools_1619597386817/work
+certifi @ file:///croot/certifi_1671487769961/work/certifi
+cffi @ file:///tmp/build/80754af9/cffi_1613246945912/work
+chardet==4.0.0
+click @ file:///home/linux1/recipes/ci/click_1610990599742/work
+coverage @ file:///tmp/build/80754af9/coverage_1614613670853/work
+cryptography @ file:///tmp/build/80754af9/cryptography_1616769286105/work
+cycler==0.10.0
+Cython @ file:///tmp/build/80754af9/cython_1618435160151/work
+debugpy @ file:///tmp/build/80754af9/debugpy_1629222698064/work
+decorator @ file:///tmp/build/80754af9/decorator_1632776554403/work
+docutils==0.18b1
+entrypoints==0.3
+et-xmlfile==1.1.0
+faiss==1.7.0
+faiss-gpu==1.7.0
+fasteners @ file:///tmp/build/80754af9/fasteners_1623953468841/work
+fastprogress @ file:///tmp/build/80754af9/fastprogress_1634699150215/work
+flatbuffers @ file:///tmp/build/80754af9/python-flatbuffers_1614345733764/work
+future==0.18.2
+gast==0.3.3
+google-auth @ file:///tmp/build/80754af9/google-auth_1619477128713/work
+google-auth-oauthlib @ file:///tmp/build/80754af9/google-auth-oauthlib_1617120569401/work
+google-pasta==0.2.0
+grpcio @ file:///tmp/build/80754af9/grpcio_1614884175859/work
+h5py==3.2.1
+idna @ file:///home/linux1/recipes/ci/idna_1610986105248/work
+imageio==2.9.0
+imagesize==1.2.0
+importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1617874469820/work
+ipykernel @ file:///tmp/build/80754af9/ipykernel_1633545412716/work/dist/ipykernel-6.4.1-py3-none-any.whl
+ipython @ file:///tmp/build/80754af9/ipython_1632141392005/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+itk==5.3rc1
+itk-core @ https://pypi.org/packages/cp38/i/itk-core/itk_core-5.1.2-cp38-cp38-manylinux1_x86_64.whl
+itk-filtering @ https://pypi.org/packages/cp38/i/itk-filtering/itk_filtering-5.1.2-cp38-cp38-manylinux1_x86_64.whl
+itk-io @ https://pypi.org/packages/cp38/i/itk-io/itk_io-5.1.2-cp38-cp38-manylinux1_x86_64.whl
+itk-numerics @ https://pypi.org/packages/cp38/i/itk-numerics/itk_numerics-5.1.2-cp38-cp38-manylinux1_x86_64.whl
+itk-registration @ https://pypi.org/packages/cp38/i/itk-registration/itk_registration-5.1.2-cp38-cp38-manylinux1_x86_64.whl
+itk-segmentation @ https://pypi.org/packages/cp38/i/itk-segmentation/itk_segmentation-5.1.2-cp38-cp38-manylinux1_x86_64.whl
+jedi @ file:///tmp/build/80754af9/jedi_1611333125342/work
+Jinja2==3.0.2
+joblib @ file:///tmp/build/80754af9/joblib_1613502643832/work
+jupyter==1.0.0
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1630690655192/work
+jupyter-core @ file:///tmp/build/80754af9/jupyter_core_1633409402760/work
+Keras==2.3.1
+Keras-Applications @ file:///tmp/build/80754af9/keras-applications_1594366238411/work
+Keras-Preprocessing @ file:///tmp/build/80754af9/keras-preprocessing_1612283640596/work
+kiwisolver @ file:///tmp/build/80754af9/kiwisolver_1612282420641/work
+llvmlite==0.36.0
+Markdown @ file:///tmp/build/80754af9/markdown_1614363528767/work
+matplotlib @ file:///tmp/build/80754af9/matplotlib-suite_1613407855456/work
+matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089/work
+# Editable install with no version control (mermaid==0.3)
+-e /dat01/anaconda3/envs/xwj/lib/python3.8/site-packages
+mkl-fft==1.3.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+multidict @ file:///tmp/build/80754af9/multidict_1600456399709/work
+nbconvert==6.2.0
+nbformat==5.1.3
+nbsphinx==0.8.7
+nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1613680548246/work
+networkx==2.5.1
+neurite==0.1
+nibabel==3.2.1
+numba==0.53.1
+numexpr @ file:///tmp/build/80754af9/numexpr_1614798506606/work
+numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1603570489231/work
+oauthlib==3.1.0
+olefile==0.46
+opencv-python==4.5.5.64
+openpyxl @ file:///tmp/build/80754af9/openpyxl_1632777717936/work
+opt-einsum==3.1.0
+packaging @ file:///croot/packaging_1678965309396/work
+pandas==1.3.3
+pandoc==2.0a4
+parso @ file:///tmp/build/80754af9/parso_1617223946239/work
+patsy==0.5.2
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow @ file:///tmp/build/80754af9/pillow_1617383569452/work
+plumbum==1.7.0
+ply==3.11
+progressbar2==3.53.3
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1633440160888/work
+protobuf==3.17.2
+ptflops==0.6.9
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pyarrow==3.0.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+Pygments @ file:///tmp/build/80754af9/pygments_1629234116488/work
+PyJWT==1.7.1
+pynndescent==0.5.2
+pynrrd==0.4.2
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
+pypandoc==1.6.4
+pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305779399/work
+pystrum==0.1
+python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
+python-utils==2.5.6
+pytorch-metric-learning @ file:///home/tkm45/anaconda3/envs/conda_test/conda-bld/pytorch-metric-learning_1617410452142/work
+pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+PyWavelets==1.1.1
+PyYAML==5.4.1
+pyzmq @ file:///tmp/build/80754af9/pyzmq_1628276010766/work
+record-keeper==0.9.30
+requests @ file:///tmp/build/80754af9/requests_1608241421344/work
+requests-oauthlib==1.3.0
+rsa @ file:///tmp/build/80754af9/rsa_1614366226499/work
+scikit-image==0.18.1
+scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1614446682169/work
+scipy @ file:///tmp/build/80754af9/scipy_1612469589093/work
+seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
+sip==4.19.13
+six @ file:///tmp/build/80754af9/six_1605205327372/work
+snowballstemmer==2.1.0
+Sphinx==4.2.0
+sphinx-gallery==0.3.1
+sphinxcontrib-applehelp==1.0.2
+sphinxcontrib-devhelp==1.0.2
+sphinxcontrib-htmlhelp==2.0.0
+sphinxcontrib-jsmath==1.0.1
+sphinxcontrib-qthelp==1.0.3
+sphinxcontrib-serializinghtml==1.1.5
+statsmodels==0.13.0
+tabulate==0.8.9
+tensorboard==2.4.1
+tensorboard-plugin-wit==1.8.0
+tensorboardX==2.5
+tensorflow @ file:///home/builder/ktietz/conda/conda-bld/tensorflow-base_1597935779250/work/tensorflow_pkg/tensorflow-2.3.0-cp38-cp38-linux_x86_64.whl
+tensorflow-estimator @ file:///home/builder/adipietro/tf/tensorflow-estimator_1630508970172/work/tensorflow_estimator-2.6.0-py2.py3-none-any.whl
+termcolor==1.1.0
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+tifffile==2021.4.8
+torch==1.8.1
+torchaudio==0.8.0a0+e4e171a
+torchfile==0.1.0
+torchvision==0.9.1
+tornado @ file:///tmp/build/80754af9/tornado_1606942300299/work
+tqdm @ file:///tmp/build/80754af9/tqdm_1615925068909/work
+traitlets @ file:///tmp/build/80754af9/traitlets_1632522747050/work
+typing-extensions @ file:///home/ktietz/src/ci_mi/typing_extensions_1612808209620/work
+umap-learn==0.5.1
+urllib3 @ file:///tmp/build/80754af9/urllib3_1615837158687/work
+visdom==0.1.8.9
+voxelmorph==0.1
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+websocket-client @ file:///home/conda/feedstock_root/build_artifacts/websocket-client_1662334000707/work
+Werkzeug @ file:///home/ktietz/src/ci/werkzeug_1611932622770/work
+wrapt==1.12.1
+xlwt==1.3.0
+yarl @ file:///tmp/build/80754af9/yarl_1606939922162/work
+zipp @ file:///tmp/build/80754af9/zipp_1615904174917/work
