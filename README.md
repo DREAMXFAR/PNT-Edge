@@ -2,7 +2,7 @@
 
 *Wenjie Xuan, Shanshan Zhao, Yu Yao, Juhua Liu, Tongliang Liu,  Yixin Chen, Bo Du, Dacheng Tao*, *accepted by ACM MM-2023*
 
-[Paper](https://arxiv.org/abs/2307.14070) | [Method](#method) | [Visualization](#Visualized Results) | [Models](#Model Parameters) | [Getting Started](#Getting Started) | [FAQ](#frequently-asked-questions) | [Citation](##Citation) 
+[Paper](https://arxiv.org/abs/2307.14070) | [Method](#method) | [Visualization](#visualized-results) | [Models](#model-parameters) | [Getting Started](#getting-started) | [FAQ](#frequently-asked-questions) | [Citation](#citation) 
 
 
 
@@ -62,7 +62,7 @@
 
 ### Notation
 
-We have provided a simple dataset with only one image and according labels and training-pair list in `./examples`, so you can just run our code according to the default settings for a quick reference. It also provide an example of how to organize the data  for training and testing. You can also directly run the following scripts for [Training](#Training), [Inference](#Inference) and [Evaluation](#Evaluation) for quick tutorial. 
+We have provided a simple dataset with only one image and according labels and training-pair list in `./examples`, so you can just run our code according to the default settings for a quick reference. It also provide an example of how to organize the data  for training and testing. You can also directly run the following scripts for [Training](#training), [Inference](#inference) and [Evaluation](#evaluation) for quick tutorial. 
 
 ### Data
 
@@ -111,7 +111,7 @@ We have provided a simple dataset with only one image and according labels and t
 
 > Here we suppose you are in `PNT-Edge_master/`
 
-0. Download the pretrained pytorch CASENet parameter in [Model Parameters](#Model Parameters) in `./pretrained_models`. And download our released models in `./release_model_params/sbd` and `./release_model_params/cityscapes`. 
+0. Download the pretrained pytorch CASENet parameter in [Model Parameters](#model-parameters) in `./pretrained_models`. And download our released models in `./release_model_params/sbd` and `./release_model_params/cityscapes`. 
 
 1. Warm-up the semantic edge detector, i.e., CASENet-S: 
 
