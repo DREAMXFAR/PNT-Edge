@@ -134,7 +134,6 @@ We have provided a simple dataset with only one image and according labels and t
      ```shell
      sh ./scripts/join_train.sh
 
-
 ### Inference
 
 - To test the CASENet-S model, configure and run the following scripts. 

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="602611a8-1e8b-4b26-a3f6-daef7f29d173" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +23,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="ServiceViewManager">
@@ -47,25 +48,64 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1691988026110</updated>
-      <workItem from="1691988033335" duration="650000" />
+      <workItem from="1691988033335" duration="2636000" />
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1691990225987</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691990225987</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init commit">
+      <created>1691990417157</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691990417157</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="142" y="3" key="SettingsEditor" timestamp="1691988379775">
+    <state x="233" y="19" key="#Notifications" timestamp="1691988938640">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="142" y="3" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1691988379775" />
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1691988559482">
+    <state x="233" y="19" key="#Notifications/0.0.1280.720@0.0.1280.720" timestamp="1691988938640" />
+    <state x="250" y="0" width="862" height="720" key="CommitChangelistDialog2" timestamp="1691990416476">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1691988559482" />
+    <state x="250" y="0" width="862" height="720" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1691990416476" />
+    <state x="421" y="102" key="FileChooserDialogImpl" timestamp="1691990002837">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="102" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1691990002837" />
+    <state x="511" y="251" width="457" height="218" key="Github.ShareDialog" timestamp="1691990022521">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="511" y="251" width="457" height="218" key="Github.ShareDialog/0.0.1280.720@0.0.1280.720" timestamp="1691990022521" />
+    <state x="142" y="3" key="SettingsEditor" timestamp="1691989768109">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="3" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1691989768109" />
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1691990429273">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1691990429273" />
     <state x="649" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1691988033360">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="649" y="369" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1691988033360" />
+    <state x="303" y="41" key="search.everywhere.popup" timestamp="1691988743049">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1691988743049" />
   </component>
 </project>
