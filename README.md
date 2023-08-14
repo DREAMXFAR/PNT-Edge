@@ -2,7 +2,7 @@
 
 *Wenjie Xuan, Shanshan Zhao, Yu Yao, Juhua Liu, Tongliang Liu,  Yixin Chen, Bo Du, Dacheng Tao*, *accepted by ACM MM-2023*
 
-[Paper](https://arxiv.org/abs/2307.14070) | [Method](#method) | [Visualization](#Visualized Results) | [Models](#Model Parameters) | [Getting Started](#Getting Started) | [FAQ](#frequently-asked-questions) | [Citation](#citation) 
+[Paper](https://arxiv.org/abs/2307.14070) | [Method](#method) | [Visualization](#Visualized Results) | [Models](#Model Parameters) | [Getting Started](#Getting Started) | [FAQ](#frequently-asked-questions) | [Citation](##Citation) 
 
 
 
